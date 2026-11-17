@@ -21,7 +21,7 @@ The system uses Mixed-Integer Linear Programming (MILP) to generate balanced mea
 - **Pandas:** Food dataset cleaning and manipulation.
 - **Mixed-Integer Linear Programming (MILP):** Meal plan optimization.
 - **Mathematical Optimization:** Objective functions and nutritional constraints.
-- **Optimization Solver:** [Insert the actual solver used.]
+- **Optimization Solver 
 
 ## 🔍 Data Cleaning & Preparation
 
